@@ -1,7 +1,8 @@
-# MCDI504 – Machine Learning I
-## Avance del Proyecto · Fase 1: Definición y orientación de la situación
+# MCDI504 - Machine Learning I
+## Avance del Proyecto - Fase 1: Definición y orientación de la situación
 
 **Grupo:** GRUPO N°1
+
 **Integrantes:**
 
 - Pablo Ignacio Balbontín Constenla @pabbalbontin-maker
@@ -10,6 +11,7 @@
 - Mario Alejandro López Pulgar @malp2203
 
 **Docente:** David Ruete Zuniña
+
 **Fecha:** 8 de agosto de 2026
 
 ---
