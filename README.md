@@ -1,9 +1,17 @@
-# MCDI504 – Machine Learning I
-## Avance del Proyecto · Fase 1: Definición y orientación de la situación
+# MCDI504 - Machine Learning I
+## Avance del Proyecto - Fase 1: Definición y orientación de la situación
 
 **Grupo:** GRUPO N°1
-**Integrantes:** Igeborg muñoz - melany Reyes · Mario lopez · Pablo Balbontín
+
+**Integrantes:**
+
+- Pablo Ignacio Balbontín Constenla @pabbalbontin-maker
+- Melany Esmeralda Reyes Leiva @melanyreyesy
+- Ingeborg Andrea Muñoz Carnot @dark452
+- Mario Alejandro López Pulgar @malp2203
+
 **Docente:** David Ruete Zuniña
+
 **Fecha:** 8 de agosto de 2026
 
 ---
@@ -12,11 +20,11 @@
 
 Este repositorio contiene la Fase 1 de un proyecto ABP de Machine Learning. La fase **no desarrolla modelamiento**: establece la definición analítica del problema, caracteriza los datos disponibles y justifica la selección del enfoque de aprendizaje, en el marco del proceso KDD.
 
-**Caso.** La Red Nacional de Monitoreo de Biodiversidad (RNMB) registra mediciones morfométricas de ejemplares en campañas de terreno. La determinación de especie está a cargo de un equipo reducido de especialistas, y el crecimiento del volumen de registros —tras incorporar voluntarios a las campañas—generó un rezago de observaciones medidas pero sin determinar. Un registro sin especie es un dato inutilizable: no ingresa a los análisis de distribución de la red.
+**Caso.** La Red Nacional de Monitoreo de Biodiversidad (RNMB) registra mediciones morfométricas de ejemplares en campañas de terreno. La determinación de especie está a cargo de un equipo reducido de especialistas, y el crecimiento del volumen de registros (tras incorporar voluntarios a las campañas) generó un rezago de observaciones medidas pero sin determinar. Un registro sin especie es un dato inutilizable: no ingresa a los análisis de distribución de la red.
 
 **Problema analítico.** Determinar si las mediciones morfométricas que las brigadas ya registran de forma rutinaria permiten asignar la especie de forma automática, aprovechando el histórico de registros ya determinados por especialistas.
 
-**Enfoque seleccionado.** Aprendizaje supervisado – clasificación multiclase.
+**Enfoque seleccionado.** Aprendizaje supervisado - clasificación multiclase.
 
 | Elemento | Definición |
 |---|---|
